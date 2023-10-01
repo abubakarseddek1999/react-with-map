@@ -1,0 +1,1 @@
+export const googleAPIkey ="AIzaSyCK-ZGFKPT61DqoNorAxFHuNfjdHpu922Y";
